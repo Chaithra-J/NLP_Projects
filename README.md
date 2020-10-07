@@ -1,5 +1,5 @@
 # How to convert speech to text or text to speech converter
-### This is a simple converter tool that uses Google's Text to Speech and Speech Recogniser APIs to convert text to speech and vice versa.
+### This is a simple converter tool that uses Google's Text to Speech and Speech Recognizer APIs to convert text to speech and vice versa.
 
 ## Pre-requisites:
 ### Install the following:
