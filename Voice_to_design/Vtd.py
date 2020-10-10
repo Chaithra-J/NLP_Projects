@@ -13,10 +13,10 @@ with sr.Microphone() as source:
     try:
         text = r.recognize_google(audio)
         words = nltk.word_tokenize(text)
+        print(words)
         length = int(len(words):
         i=1
         for i in range(length):
-            print(i)
             geoff.forward(i*10)
             geoff.right(144)
        
