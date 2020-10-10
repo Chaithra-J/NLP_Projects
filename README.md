@@ -15,3 +15,8 @@ Output: Output will be an mp3 file.
 
 Gstt.py: Converts speech to text. Run the code, when prompted to 'Say Something' in the terminal, speak and press enter.
 Output: Output will be in text.
+
+###Steps:
+1. Run the python files.
+2. Allow your system to access microphone.
+3. Observe the output.
